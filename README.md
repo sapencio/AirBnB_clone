@@ -48,3 +48,8 @@ To quit the console, enter the command quit, or input an EOF signal (ctrl-D).
     (hbnb) EOF
     $
 ```
+
+# AUTHORS
+
+1. Dawit Abebe <@DawitAbebe123>
+2. Tibebe Solomon <@sapencio>
