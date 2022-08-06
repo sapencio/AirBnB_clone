@@ -19,26 +19,32 @@ The HolbertonBnB console can be run both interactively and non-interactively. To
     EOF  all  count  create  destroy  help  quit  show  update
 
     (hbnb) 
-    $
+    $ 
+```
 
 Alternatively, to use the HolbertonBnB console in interactive mode, run the file console.py by itself:
 
-`` bash
+``` bash
     $ ./console.py
+``` 
 
 While running in interactive mode, the console displays a prompt for input:
 
-`` bash
+``` bash
     $ ./console.py
     (hbnb) 
+```
 
 To quit the console, enter the command quit, or input an EOF signal (ctrl-D).
 
-`` bash
+``` bash
     $ ./console.py
     (hbnb) quit
     $
+```
 
+``` bash
     $ ./console.py
     (hbnb) EOF
     $
+```
