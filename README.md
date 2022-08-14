@@ -57,7 +57,6 @@ To quit the console, enter the command quit, or input an EOF signal (ctrl-D).
     $
 ```
 
-# AUTHORS
+# AUTHOR
 
 1. Dawit Abebe
-2. Tibebe Solomon
